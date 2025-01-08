@@ -1,0 +1,13 @@
+Session,dependent variable,independent variable,coefficient,z-value,p-value,95% CI (lower),95% CI (upper),,
+visual,area,hemisphere,-156.374,-1.848,0.065,-322.229,9.482,,Adults
+,,mu_left,-118.148,-6.341,0,-154.666,-81.63,,
+,,mu_right,-69.48,-3.728,0,-106.008,-32.953,,
+visual,fwhm,hemisphere,-3.458,-0.68,0.497,-13.426,6.51,,
+,,mu_left,7.267,6.489,0,5.072,9.461,,
+,,mu_right,8.551,7.634,0,6.355,10.746,,
+visual,area,hemisphere,-29.716,-0.286,0.775,-233.039,173.607,,Children
+,,mu_left,-113.305,-4.83,0,-159.281,-67.329,,
+,,mu_right,-100.802,-4.478,0,-144.917,-56.686,,
+visual,fwhm,hemisphere,2.724,0.334,0.738,-13.264,18.713,,
+,,mu_left,10.239,5.551,0,6.624,13.855,,
+,,mu_right,9.754,5.511,0,6.285,13.223,,
