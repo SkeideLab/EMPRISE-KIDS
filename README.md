@@ -11,7 +11,7 @@ in the developing human brain
 
 * Paper: *submitted, currently under review*
 
-* Preprint: TBA
+* Preprint: https://www.biorxiv.org/content/10.1101/2025.01.10.632353v1
 * Supplement: TBA
 * Code: https://github.com/SkeideLab/EMPRISE-KIDS/
 * Data: TBA
