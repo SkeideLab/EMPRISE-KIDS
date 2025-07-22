@@ -1,18 +1,14 @@
-# EMPRISE-analysis
+# EMPRISE-KIDS
 
 **EMPRISE - EMergence of PRecISE numerosity representations in the human brain**
 
-This code belongs to the [EMPRISE project](https://docs.google.com/document/d/1NplHdKIxAtiP9eXvE_wwQogRfu9pO_3gWW6BLUdUZak/edit) within the [Skeide Lab](https://www.skeidelab.com/) at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en) (MPI CBS) in Leipzig, Germany and allows for population receptive field (pRF) analysis of functional MRI data collected during experiments with visual sensory numerosity (conditions "visual").
+This code belongs to the [EMPRISE project](https://docs.google.com/document/d/1NplHdKIxAtiP9eXvE_wwQogRfu9pO_3gWW6BLUdUZak/edit) within the [Skeide Lab](https://www.skeidelab.com/) at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en) (MPI CBS) in Leipzig, Germany and allows for population receptive field (pRF) analysis of functional MRI data collected during experiments with visual sensory numerosity.
 
-Results on visual numerosity population receptive field (NumpRF) organization in children and adult subjects are reported in a paper entitled *"High-field fMRI at 7 Tesla reveals
-tuned topographic responses to number 
-in the developing human brain
-"* which is currently in peer-review.
+Results on visual numerosity population receptive field (NumpRF) organization in children and adult subjects are reported in a paper entitled "*High-field fMRI at 7 Tesla reveals tuned topographic responses to number in the developing human brain*" which is accepted for publication in *Developmental Cognitive Neuroscience*.
 
 * Paper: *submitted, currently under review*
-
 * Preprint: https://www.biorxiv.org/content/10.1101/2025.01.10.632353v1
-* Supplement: TBA
+* Supplement: https://www.biorxiv.org/content/10.1101/2025.01.10.632353v1.supplementary-material
 * Code: https://github.com/SkeideLab/EMPRISE-KIDS/
 * Data: TBA
 
