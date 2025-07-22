@@ -6,7 +6,7 @@ This code belongs to the [EMPRISE project](https://docs.google.com/document/d/1N
 
 Results on visual numerosity population receptive field (NumpRF) organization in children and adult subjects are reported in a paper entitled "*High-field fMRI at 7 Tesla reveals tuned topographic responses to number in the developing human brain*" which is accepted for publication in *Developmental Cognitive Neuroscience*.
 
-* Paper: *submitted, currently under review*
+* Paper: TBA
 * Preprint: https://www.biorxiv.org/content/10.1101/2025.01.10.632353v1
 * Supplement: https://www.biorxiv.org/content/10.1101/2025.01.10.632353v1.supplementary-material
 * Code: https://github.com/SkeideLab/EMPRISE-KIDS/
